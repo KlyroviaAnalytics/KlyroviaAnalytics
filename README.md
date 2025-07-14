@@ -1,16 +1,53 @@
-## Hi there 👋
+<p align="center">
+  <img src="cover.png" alt="Klyrovianalytics Cover" width="100%" />
+</p>
 
-<!--
-**KlyroviaAnalytics/KlyroviaAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Welcome to Klyrovianalytics 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Turning data into decisions — with clarity, precision, and impact.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Us
+
+**Klyrovianalytics** is a data science and AI consulting firm helping businesses unlock value through intelligent analytics. We specialize in building end-to-end solutions across industries using:
+
+- 🔹 Machine Learning & Predictive Modeling  
+- 🔹 Business Intelligence & Dashboards  
+- 🔹 NLP & Text Analytics  
+- 🔹 Automation & Data Pipelines  
+
+Whether it’s healthcare, finance, retail, or beyond — we craft scalable, data-driven solutions tailored to your needs.
+
+---
+
+## 🛠️ Services
+
+- ✅ Data Science Consulting  
+- ✅ Machine Learning Systems  
+- ✅ Power BI & Streamlit Dashboards  
+- ✅ Natural Language Processing  
+- ✅ Data Engineering & ETL  
+- ✅ AI-Powered Automation  
+
+---
+
+## 📈 Featured Projects
+
+Stay tuned for open-source tools, case studies, and smart data apps — all built to empower modern businesses with insights that matter.
+
+---
+
+## 🤝 Connect With Us
+
+Let’s collaborate or talk data:
+- 🔗 [LinkedIn](https://www.linkedin.com/in/klyrovia-analytics-580a0a373)
+- 📫 Reach out via issues or project discussions here on GitHub
+
+---
+
+<p align="center">
+  <i>“Smarter analytics. Better outcomes.”</i>
+</p>
