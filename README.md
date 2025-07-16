@@ -43,7 +43,7 @@ Stay tuned for open-source tools, case studies, and smart data apps — all buil
 ## 🤝 Connect With Us
 
 Let’s collaborate or talk data:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/klyrovia-analytics-580a0a373)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/klyrovia-analytics)
 - 📫 Reach out via issues or project discussions here on GitHub
 
 ---
